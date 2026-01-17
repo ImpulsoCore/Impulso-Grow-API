@@ -18,9 +18,9 @@
   
 <div align="center"><img src="./public/images/cover.png"></div>
 
-## Evolution API
+## Impulso Grow API
 
-Evolution API began as a WhatsApp controller API based on [CodeChat](https://github.com/code-chat-br/whatsapp-api), which in turn implemented the [Baileys](https://github.com/WhiskeySockets/Baileys) library. While originally focused on WhatsApp, Evolution API has grown into a comprehensive platform supporting multiple messaging services and integrations. We continue to acknowledge CodeChat for laying the groundwork.
+Grow API began as a WhatsApp controller API based on [CodeChat](https://github.com/code-chat-br/whatsapp-api), which in turn implemented the [Baileys](https://github.com/WhiskeySockets/Baileys) library. While originally focused on WhatsApp, Evolution API has grown into a comprehensive platform supporting multiple messaging services and integrations. We continue to acknowledge CodeChat for laying the groundwork.
 
 Today, Evolution API is not limited to WhatsApp. It integrates with various platforms such as Typebot, Chatwoot, Dify, and OpenAI, offering a broad array of functionalities beyond messaging. Evolution API supports both the Baileys-based WhatsApp API and the official WhatsApp Business API, with upcoming support for Instagram and Messenger.
 
@@ -29,7 +29,7 @@ For those who need a more streamlined and performance-optimized version, check o
 
 ## Types of Connections
 
-Evolution API supports multiple types of connections to WhatsApp, enabling flexible and powerful integration options:
+Grow API supports multiple types of connections to WhatsApp, enabling flexible and powerful integration options:
 
 - *WhatsApp API - Baileys*:
   - A free API based on WhatsApp Web, leveraging the [Baileys library](https://github.com/WhiskeySockets/Baileys).
