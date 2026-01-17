@@ -16,7 +16,7 @@
 
 </div>
   
-<div align="center"><img src="./public/images/cover.png"></div>
+<div align="center"><img src="./public/images/cover-logo.png"></div>
 
 ## Impulso Grow API
 
