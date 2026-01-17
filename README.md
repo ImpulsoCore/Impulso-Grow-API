@@ -1,4 +1,4 @@
-<h1 align="center">Impulso Grow Api</h1>
+<h1 align="center">Impulso Grow API</h1>
 
 <div align="center">
 
